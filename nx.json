@@ -25,6 +25,7 @@
     "test-e2e": { "tags": [], "implicitDependencies": ["test"] },
     "api": { "tags": [] },
     "api-interfaces": { "tags": [] },
-    "shared": { "tags": [] }
+    "shared": { "tags": [] },
+    "home": { "tags": [] }
   }
 }

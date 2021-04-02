@@ -18,7 +18,8 @@
       "@sample-angular-nx-ngrx-app/api-interfaces": [
         "libs/api-interfaces/src/index.ts"
       ],
-      "@sample-angular-nx-ngrx-app/shared": ["libs/shared/src/index.ts"]
+      "@sample-angular-nx-ngrx-app/shared": ["libs/shared/src/index.ts"],
+      "@sample-angular-nx-ngrx-app/home": ["libs/home/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
